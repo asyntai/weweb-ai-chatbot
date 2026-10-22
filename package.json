@@ -1,0 +1,21 @@
+{
+  "name": "weweb-ai-chatbot",
+  "version": "1.0.0",
+  "description": "Asyntai AI Chatbot for WeWeb. Adds an AI chat assistant to your WeWeb app that answers visitor questions from your own content, in 80+ languages.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asyntai/weweb-ai-chatbot"
+  },
+  "homepage": "https://asyntai.com/documentation/integrations/weweb/",
+  "author": "Asyntai <hello@asyntai.com> (https://asyntai.com)",
+  "license": "MIT",
+  "scripts": {
+    "build": "weweb build",
+    "serve": "weweb serve",
+    "test": "node tests/test_loader.mjs && node tests/test_config.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@weweb/cli": "latest"
+  }
+}
