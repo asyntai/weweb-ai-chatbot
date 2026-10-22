@@ -1,6 +1,6 @@
 {
   "name": "weweb-ai-chatbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Asyntai AI Chatbot for WeWeb. Adds an AI chat assistant to your WeWeb app that answers visitor questions from your own content, in 80+ languages.",
   "repository": {
     "type": "git",
